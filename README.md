@@ -1,20 +1,15 @@
-## Hi there 👋
+<table>
+  <tr>
+    <td width="260" valign="top">
+      <img 
+        src="https://github.com/SEU_USUARIO.png?size=460" 
+        alt="Dercio Gimenes" 
+        width="240"
+        style="border-radius: 12px;"
+      />
+    </td>
+    <td valign="top">
 
-<!--
-**Dforato-ai/Dforato-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- ===================== HERO / FOTO ===================== -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/assets/profile-banner.jpg" 
        alt="Dercio Gimenes - Software & QA Specialist" 
