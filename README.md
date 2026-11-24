@@ -1,135 +1,40 @@
-<table>
-  <tr>
-    <td width="260" valign="top">
-      <img 
-        src="https://github.com/SEU_USUARIO.png?size=460" 
-        alt="Dercio Gimenes" 
-        width="240"
-        style="border-radius: 12px;"
-      />
-    </td>
-    <td valign="top">
+# Dercio Forato Gimenes
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/assets/profile-banner.jpg" 
-       alt="Dercio Gimenes - Software & QA Specialist" 
-       width="100%" />
-</p>
+**QA Engineer · Automação de testes com Playwright, Postman e CI/CD · Sistemas críticos e produtos com agentes LLM**
 
-<h1 align="center">👋 Olá, eu sou o Dercio Gimenes</h1>
-
-<h3 align="center">
-Especialista em Qualidade de Software • Automação • APIs • Backend • Apoio a Times de Alto Desempenho
-</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
-  </a>
-  <a href="mailto:SEU_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-informational" />
-  </a>
-  <a href="https://getamazingdevs.com" target="_blank">
-    <img src="https://img.shields.io/badge/Company-Amazing%20Devs-black" />
-  </a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/dercio-forato-gimenes) · dercioforato@gmail.com · Remoto
 
 ---
 
-## 🚀 Sobre mim
+Priorizo teste por risco real de produção, e não por checklist. Passei boa parte da
+carreira do outro lado: sustentando sistemas que não podiam parar na Caixa Econômica
+Federal, na Editora Abril e na VR Benefícios, respondendo por SLA e tratando incidente
+em plantão noturno.
 
-Sou um profissional de tecnologia com forte atuação em **Qualidade de Software (QA)**, **testes automatizados**, **validação de APIs**, **integrações** e **análise técnica de soluções**.
+Hoje trabalho com engenharia de qualidade e automação de testes: E2E com Playwright
+(TypeScript e Page Object Model), testes de API com Postman/Newman e execução em
+GitHub Actions, sobre produtos que usam agentes LLM.
 
-Tenho experiência apoiando **times ágeis**, **startups** e **empresas internacionais**, garantindo **confiabilidade, escalabilidade e qualidade** em produtos digitais.
+## Projetos públicos
 
-💡 **Meu diferencial**: unir visão técnica profunda com entendimento de negócio e comunicação clara com desenvolvedores, líderes e stakeholders.
+| Projeto | O que mostra | Stack |
+|---|---|---|
+| [QAx — Zombieplus](https://github.com/Dforato-ai/QAx) | Suíte E2E de uma aplicação web: login, cadastro de leads e de filmes. Page Objects, massa via fixtures e Faker, preparação de dado pela API. | Playwright · JavaScript |
+| [ServRest-API](https://github.com/Dforato-ai/ServRest-API) | Testes de API REST do Postman manual até a execução no CI, com relatório HTML. | Postman · Newman · htmlextra · GitHub Actions |
 
----
+Os projetos profissionais são privados. Posso apresentar a estrutura e as decisões em conversa.
 
-## 🧠 Principais competências técnicas
+## Como eu trabalho
 
-### 🔍 Qualidade & Testes
-- Testes manuais, exploratórios e regressivos  
-- Automação de testes (API e backend)
-- Validação de contratos (JSON Schema / AJV)
-- Estratégia de testes para times ágeis
-- Criação de cenários, massa de dados e critérios de aceite
+- **Risco antes de cobertura:** o que quebra o negócio é testado primeiro.
+- **API para preparar massa, E2E para os fluxos críticos.**
+- **Localizadores pelo que o usuário enxerga** (role, label), sem espera fixa.
+- **Exploratório com sessão documentada**; defeito com evidência, severidade e prioridade.
+- **IA como copiloto:** gero, leio e reviso todo código; contexto e limites definidos por projeto.
 
-### 🔌 APIs & Integrações
-- Testes avançados com **Postman**
-- REST & GraphQL
-- Validação de payloads, headers, auth e performance
-- Testes de integração e E2E
+## Stack
 
-### ⚙️ Backend & Dados
-- Python (scripts, validações, automações)
-- Node.js (conceitos e integrações)
-- SQL (validação de dados)
-- Logs, rastreabilidade e análise de falhas
-
-### ☁️ Dev & Processos
-- Git & GitHub (versionamento e revisão)
-- CI/CD (conceitos e apoio a pipelines)
-- Metodologias ágeis (Scrum / Kanban)
-- Comunicação técnica com times globais (inglês avançado)
-
----
-
-## 📂 O que você encontrará neste repositório
-
-Este é meu **repositório principal**, onde concentro:
-
-- 📌 Exemplos reais de **testes automatizados**
-- 📌 Scripts de **Postman** bem estruturados
-- 📌 Boas práticas de **validação de APIs**
-- 📌 Organização de testes para projetos reais
-- 📌 Padrões que uso em ambientes profissionais
-
-👉 Cada pasta possui um **README próprio**, explicando:
-- Objetivo do código
-- Contexto de uso
-- Tecnologias aplicadas
-- Boas práticas adotadas
-
----
-
-## 🏆 Destaques para recrutadores
-
-✅ Experiência prática (não apenas acadêmica)  
-✅ Forte capacidade analítica e atenção a detalhes  
-✅ Comunicação clara com times técnicos e não técnicos  
-✅ Visão de produto e impacto no negócio  
-✅ Organização, documentação e padrão de código  
-✅ Atuação com clientes e empresas internacionais  
-
----
-
-## 🌍 Experiência internacional & negócios
-
-Além da parte técnica, atuo também com:
-- Análise de parceiros de tecnologia (EUA e Europa)
-- Apoio a decisões técnicas para startups
-- Alocação de desenvolvedores brasileiros para empresas americanas
-- Avaliação técnica de candidatos e times
-
----
-
-## 📬 Vamos conversar?
-
-Se você é:
-- Recrutador(a)
-- Tech Lead
-- Engineering Manager
-- Founder ou CTO
-
-📩 Fique à vontade para entrar em contato:
-- **LinkedIn:** https://www.linkedin.com/in/SEU-LINKEDIN  
-- **Email:** SEU_EMAIL  
-- **Empresa:** https://getamazingdevs.com  
-
----
-
-<p align="center">
-  <i>“Qualidade não é um estágio do processo. É parte da cultura.”</i>
-</p>
-
+- **Testes:** Playwright · Postman · Newman · Swagger/OpenAPI · Zephyr
+- **Código e CI:** TypeScript · JavaScript · Python · SQL (Oracle, PostgreSQL) · Git · GitHub Actions
+- **Processo:** Jira · Azure DevOps · Scrum · Kanban
+- **Base de produção:** Linux · Mainframe · Control-M · Automic · Nagios/Zabbix · gestão de incidentes e SLA
